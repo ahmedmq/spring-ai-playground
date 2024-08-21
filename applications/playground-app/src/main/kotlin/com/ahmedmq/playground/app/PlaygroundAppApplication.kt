@@ -8,6 +8,4 @@ class PlaygroundAppApplication
 
 fun main(args: Array<String>) {
     runApplication<PlaygroundAppApplication>(*args)
-
-
 }
